@@ -6,4 +6,3 @@
 ## РАЗНОЕ ##
 [БЭМ-методология](https://ru.bem.info/methodology/)
 
-<a href="https://ru.bem.info/methodology/" target="_blank">БЭМ-методология в новой вкладке</a>
