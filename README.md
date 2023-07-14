@@ -4,4 +4,4 @@
 [Благодарность участникам RS School](https://app.rs.school/gratitude)
 
 ## РАЗНОЕ ##
-[БЭМ-методологиях](https://ru.bem.info/methodology/)
+[БЭМ-методология](https://ru.bem.info/methodology/)
