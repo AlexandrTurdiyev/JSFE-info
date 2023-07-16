@@ -3,6 +3,9 @@
 ## RS SCHOOL ##
 - [Благодарность участникам RS School](https://app.rs.school/gratitude)
 
+## HTML/CSS ##
+- [Кастомные радио кнопки на HTML и CSS. Урок](https://www.youtube.com/watch?v=Cw6wOZNeqk0)
+
 ## БЭМ Методология ##
 - [БЭМ методология](https://ru.bem.info/methodology/) - источник на русском языке.
 
