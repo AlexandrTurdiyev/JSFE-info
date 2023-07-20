@@ -12,4 +12,9 @@
 - [БЭМ методология. Практический пример](https://www.youtube.com/watch?v=Jrjwewef_Ws&t=1359s) - YouTube канал "от 0 до 1".
 
 - [БЭМ методология](bem-metodology.md) - памятка.
-[]()
+
+
+## GitHub ##
+### GitHub-Pages ###
+
+[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#building-your-site-locally)
