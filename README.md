@@ -3,6 +3,9 @@
 ## RS SCHOOL ##
 - [Благодарность участникам RS School](https://app.rs.school/gratitude)
 
+### Проекты Stage0 2023 ###
+- [Library #1](https://rolling-scopes-school.github.io/alexandrturdiyev-JSFEPRESCHOOL2023Q2/library/)
+
 ## HTML/CSS ##
 - [Кастомные радио кнопки на HTML и CSS. Урок](https://www.youtube.com/watch?v=Cw6wOZNeqk0)
 
