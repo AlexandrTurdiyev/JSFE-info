@@ -7,6 +7,10 @@
 - [Library #1](https://rolling-scopes-school.github.io/alexandrturdiyev-JSFEPRESCHOOL2023Q2/library/)
 
 ## HTML/CSS ##
+- [Типы вёрстки](https://likeit.pro/aktualnye-tipy-vyerstki.php)
+
+- [Разница между width и flex-basis](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-width-%D0%B8-flex-basis-f34e658ce6a2) 
+
 - [Кастомные радио кнопки на HTML и CSS. Урок](https://www.youtube.com/watch?v=Cw6wOZNeqk0)
 
 ## БЭМ Методология ##
