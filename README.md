@@ -6,7 +6,10 @@
 ### Проекты Stage0 2023 ###
 - [Library #1](https://rolling-scopes-school.github.io/alexandrturdiyev-JSFEPRESCHOOL2023Q2/library/)
 
-## HTML/CSS ##
+## MarkDown
+- [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet/)
+
+## HTML / CSS ##
 - [Типы вёрстки](https://likeit.pro/aktualnye-tipy-vyerstki.php)
 
 - [Разница между width и flex-basis](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-width-%D0%B8-flex-basis-f34e658ce6a2) 
@@ -21,7 +24,14 @@
 - [БЭМ методология](bem-metodology.md) - памятка.
 
 
-## GitHub ##
+## Git / GitHub ##
+
+- [Создание и оформление коммитов](/pages/git-github/git-commits.md)
+
+### Git-commits (коммиты)
+
 ### GitHub-Pages ###
 
 - [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#building-your-site-locally)
+
+
