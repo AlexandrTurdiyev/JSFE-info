@@ -13,15 +13,22 @@ ___
 ___
 
 ## HTML / CSS / JS ##
+### HTML / CSS ###
 - [Типы вёрстки](https://likeit.pro/aktualnye-tipy-vyerstki.php)
 
 - [Разница между width и flex-basis](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-width-%D0%B8-flex-basis-f34e658ce6a2) 
 
 - [Кастомные радио кнопки на HTML и CSS. Урок](https://www.youtube.com/watch?v=Cw6wOZNeqk0)
 
+- [Правила построения блок–схемы алгоритма](https://studfile.net/preview/1697967/page:42/)
+
+### JS ###
+
 - [Java Script - Basics (from Code-Basics.io)](pages/java-script/js-basics.md)
 
 - [Java Script - ответы на вопросы](pages/java-script/js-answers-on-questions.md)
+
+- [Java Script - памятка](pages/java-script/java-script-memo.md)
 ___
 
 ## БЭМ Методология ##
@@ -34,9 +41,8 @@ ___
 
 ## Git / GitHub ##
 
-- [Создание и оформление коммитов](/pages/git-github/git-commits.md)
-
 ### Git-commits (коммиты)
+- [Создание и оформление коммитов](/pages/git-github/git-commits.md)
 
 ### GitHub-Pages ###
 

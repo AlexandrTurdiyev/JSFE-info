@@ -49,3 +49,19 @@ ___
 Примеры:
     - `docs: update readme with additional information` - обновить readme с дополнительной информацией
     - `docs: update description of run() method` - обновить описание метода run()
+___
+
+### Коммиты, которые использую я ###
+
+- `init: start project` - используется в качестве первого коммита в начале проекта.
+- `feat: add basic page layout` - добавить базовый макет страницы.
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+
+- ``

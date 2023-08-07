@@ -1,8 +1,12 @@
-# Памятка по Java Script - Basics (from Code-Basics.io) #
-[На главную](../../../README.md)
+# Памятка по Java Script #
+[На главную](../../README.md)
 [Основная страница по JS - Basics (from Code-Basics.io)](../js-basics.md)
 ___
+## Ссылки на полезные источники
 
+- [Современный учебник JavaScript](https://learn.javascript.ru/)
+    - https://learn.javascript.ru/
+___
 ## JavaScript: Инкремент и декремент ##
 ___Инкремент и декремент 70/72___
  - Инкремент ++ 
