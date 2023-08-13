@@ -2,6 +2,7 @@
 
 ## RS SCHOOL ##
 - [Благодарность участникам RS School](https://app.rs.school/gratitude)
+- [Материалы RS SCHOOL](pages/rs-school/rs-school.md)
 ___
 
 ### Проекты Stage0 2023 ###
@@ -15,6 +16,10 @@ ___
 ## HTML / CSS / JS ##
 ### HTML / CSS ###
 - [Типы вёрстки](https://likeit.pro/aktualnye-tipy-vyerstki.php)
+
+- [Полное руководство по Flexbox - Хабр](https://habr.com/ru/articles/467049/)
+
+- [Полное руководство по CSS Grid - tuhub](https://tuhub.ru/posts/css-grid-complete-guide)
 
 - [Разница между width и flex-basis](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-width-%D0%B8-flex-basis-f34e658ce6a2) 
 
