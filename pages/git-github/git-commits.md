@@ -53,15 +53,16 @@ ___
 
 ### Коммиты, которые использую я ###
 
-- `init: start project` - используется в качестве первого коммита в начале проекта.
+- `init: start NAME project` - используется в качестве первого коммита в начале проекта.
 - `feat: add basic page layout` - добавить базовый макет страницы.
+- `feat(index.html): add header content`
 - `feat: add burger menu` - добавить меню бургер.
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
+- `feat(normilize.css): add and connect normilize.css` - добавить и подключить normilize.css.
 
-- ``
+___
+
+### Информация о коммитах
+- [Соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0/#specification)
+
+
+- [](https://www.youtube.com/watch?v=WlIzoLK46is&t=128s)

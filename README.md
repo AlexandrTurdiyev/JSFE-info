@@ -46,11 +46,16 @@ ___
 
 ## Git / GitHub ##
 
+- [Памятка](pages/git-github/git-github-memo.md)
+
 ### Git-commits (коммиты)
 - [Создание и оформление коммитов](/pages/git-github/git-commits.md)
 
 ### GitHub-Pages ###
 
 - [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#building-your-site-locally)
+
+## Дизайн ##
+
 
 
